@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8JHJ+RDKv/s=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Testes\\Linx\\Linx\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

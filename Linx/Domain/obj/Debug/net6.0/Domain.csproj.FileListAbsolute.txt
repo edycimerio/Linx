@@ -1,0 +1,12 @@
+C:\Projetos\Testes\Linx\Linx\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Projetos\Testes\Linx\Linx\Domain\bin\Debug\net6.0\Domain.dll
+C:\Projetos\Testes\Linx\Linx\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\Domain.dll
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Projetos\Testes\Linx\Linx\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache

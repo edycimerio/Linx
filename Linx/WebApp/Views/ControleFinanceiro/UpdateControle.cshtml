@@ -1,0 +1,43 @@
+﻿@model Web.Models.ProdutoModel
+
+@{
+    ViewData["Title"] = "UpdateControle";
+
+}
+
+<h2>Atualiza um Lançamento </h2>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Id"></label>
+        <input class="form-control" asp-for="Id" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Nome"></label>
+        <input class="form-control" asp-for="Nome" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Descricao"></label>
+        <input class="form-control" asp-for="Descricao" />
+    </div>
+    
+
+    <div class="form-group">
+
+        <label for="dropDown1">Categorias:</label>
+        <div>
+            <select id="dropDown1" asp-for="CategoriaId" asp-items="@ViewBag.Categorias"></select>
+
+            <input asp-for="Perecivel" type="checkbox" />
+            <label asp-for="Perecivel" class="control-label"></label>
+            <span asp-validation-for="Perecivel" class="text-danger"></span>
+        </div>
+    </div>
+
+    <br />
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Atualizar</button>&nbsp&nbsp <a asp-action="Index" class="btn btn-sm btn-success">Retorna</a>
+    </div>
+    <div class="text-left panel-body">
+    </div>
+</form>
+

@@ -1,0 +1,9 @@
+﻿@model Web.Models.ProdutoModel
+
+@{
+    ViewData["Title"] = "DeleteControle";
+
+}
+<form asp-action="DeleteControle" method="post">
+    <input type="hidden" value="@Model.Id" name="Id" />
+</form>
